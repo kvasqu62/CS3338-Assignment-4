@@ -1,4 +1,4 @@
-# *.log
+*.log
 final_project/docs/User_Manual/
 *-*.txt
 final_project/src/styles.css
