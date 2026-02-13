@@ -1,0 +1,6 @@
+# *.log
+final_project/docs/User_Manual/
+*-*.txt
+final_project/src/styles.css
+final_project/docs/Software_Requirement_Specification/SRS_v*.docx
+**/README.md
